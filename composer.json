@@ -1,0 +1,20 @@
+{
+    "name": "yuko/ddd-helper",
+    "description": "common classes and interfaces to architect ddd",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yuko\\DddHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yukogit",
+            "email": "yuko.git@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4.0"
+    }
+}
