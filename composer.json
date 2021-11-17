@@ -7,6 +7,7 @@
             "Yuko\\DddHelper\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "yukogit",
